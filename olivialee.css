@@ -132,7 +132,7 @@
   }
 
   #education {
-    background: linear-gradient(to right, #e6f0ff7d, #cce0ff7a), url('/images/school.jpeg');
+    background: linear-gradient(to right, #e6f0ff7d, #cce0ff7a), url('images/school.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
